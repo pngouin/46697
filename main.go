@@ -1,3 +1,12 @@
+// Exploit Title: Remote Mouse 3.008 - Failure to Authenticate
+// Date: 2019-09-04
+// Exploit Author: 0rphon
+// Rewrite Date: 2021-06-18
+// Exploit Rewrite: pngouin
+// Software Link: https://www.remotemouse.net/
+// Version: 3.008
+// Tested on: Windows 10
+
 package main
 
 import (
